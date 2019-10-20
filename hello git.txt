@@ -1,3 +1,5 @@
 Welcome to Git - The Distributed Version Control System.
 
 Git is very highly useful and is now a necessary skill you must have.
+
+Tracked file is any file that is already commited or added to the staging environment.
