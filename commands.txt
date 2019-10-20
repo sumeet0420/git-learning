@@ -11,4 +11,11 @@ git checkout --"filename" -> To discard the changes from the last commit
 git mv "source file" "destination file" -> Renamed the file 
 git add -A
 git add -u
-git rm 
+git rm -> rename or move a file
+git log -> History
+git log --abbrev-commit
+git log --oneline --graph --decorate
+git log --follow
+git show "commit id"
+git help log
+git config alias.hist "log -5 --oneline --graph --decorate"
