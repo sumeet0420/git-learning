@@ -19,3 +19,6 @@ git log --follow
 git show "commit id"
 git help log
 git config alias.hist "log -5 --oneline --graph --decorate"
+git branch -a -> lists all the branches in the local and remote
+git branch "branchname" -> create a new branch
+
