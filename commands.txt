@@ -2,3 +2,5 @@ git init -> Initializing a git as Git Project
 git status -> To know the current status
 git commit -m -> Commit to stage with short message
 git clone URL
+git add .-> Add untracked files to Index
+git commit -am -> To add the changes to index and staging them.
