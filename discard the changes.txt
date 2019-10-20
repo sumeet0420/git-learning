@@ -1,0 +1,3 @@
+The below sentence will be "Before Checkout" or "After Checkout" depending on the command.
+
+Before Checkout
