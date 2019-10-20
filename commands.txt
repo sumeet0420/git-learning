@@ -7,4 +7,8 @@ git commit -am -> To add the changes to index and staging them.
 git ls-files -> To list the files git is tracking.
 git add -a ->
 git reset HEAD "file name" -> To unstage the changes i.e. index to working directory'
-git checkout "filename" -> To discard the changes from the last commit
+git checkout --"filename" -> To discard the changes from the last commit
+git mv "source file" "destination file" -> Renamed the file 
+git add -A
+git add -u
+git rm 
