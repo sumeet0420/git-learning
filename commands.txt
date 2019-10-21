@@ -21,5 +21,7 @@ git help log
 git config alias.hist "log -5 --oneline --graph --decorate"
 git branch -a -> lists all the branches in the local and remote
 git branch "branchname" -> create a new branch
-git checkout "branchname" -> checkout to new branch
-
+git checkout "branchname" -> checkout to branch (note: changes should be commited or stashed)
+git branch -m "old branch name" "new branch name" -> Branch rename
+git branch -d branchname -> To delete a branch
+git checkout -b -> create a branch and checkout to it
