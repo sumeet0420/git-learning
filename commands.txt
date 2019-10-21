@@ -21,4 +21,6 @@ git help log
 git config alias.hist "log -5 --oneline --graph --decorate"
 git branch -a -> lists all the branches in the local and remote
 git branch "branchname" -> create a new branch
-
+git diff "branch1" "branch2" -> To see the differrences between the two branches.
+git difftool "branch1" "branch2" -> To see visually the difference between two branches
+git merge "branchname" -> To merge the "branchname" into the current branch
